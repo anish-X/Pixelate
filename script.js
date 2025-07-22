@@ -2,7 +2,7 @@ const table = document.getElementById('table')
 const addBtn = document.getElementById('add-row')
 
 const color_select = document.getElementById('color-select')
-let selectedColor = 'gray';
+let selectedColor = '';
 let isMouseDown = false;
 
 function makeRow() {
