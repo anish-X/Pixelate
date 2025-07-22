@@ -46,33 +46,6 @@ td {
   background-color: lightgray;
 }
 
-.red{
-    background-color: red;
-}
-
-.blue{
-    background-color: blue;
-}
-
-.beige{
-    background-color: beige;
-}
-
-.gray{
-    background-color: gray;
-}
-
-.black{
-    background-color: black;
-}
-
-.green{
-    background-color: green;
-}
-
-.aqua {
-    background-color: aqua;
-}
 @media screen and (max-width: 500px) {
   td {
     height: 25px;
